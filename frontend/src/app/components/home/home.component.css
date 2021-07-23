@@ -1,0 +1,19 @@
+p {
+  margin-bottom: 0;
+}
+
+.shared-text {
+  font-size: 12px;
+}
+
+a {
+  color: #000000;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
